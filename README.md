@@ -245,7 +245,8 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
-"C:\Users\Magesh\OneDrive\Documents\mohan\5.jpg"
+![5](https://user-images.githubusercontent.com/94828335/171209385-0cb0b690-d81f-400e-ab2f-e21fdbc2ee68.jpg)
+
 
 
 </br>
