@@ -196,8 +196,9 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
-![1](https://user-images.githubusercontent.com/94828335/171204451-df6f31ea-da8b-4ea1-9c0c-1f32dcb8caba.png)
-![2](https://user-images.githubusercontent.com/94828335/171204516-ea45a0bc-a4db-4dc0-abc4-e348ae3ceaaa.png)
+
+![1](https://user-images.githubusercontent.com/94828335/171207974-4f31babb-3512-4ce6-bf7b-6bed13bbd682.jpg)
+
 
 </br>
 </br>
@@ -207,8 +208,8 @@ i) Using Averaging Filter
 
 ii) Using Weighted Averaging Filter
 
-![3](https://user-images.githubusercontent.com/94828335/171204650-aeed7a60-d78b-4174-b10b-999c1fff7b0e.png)
-![4](https://user-images.githubusercontent.com/94828335/171204737-6fdf3235-d350-49f0-9bda-99ec36a3c36d.png)
+![2](https://user-images.githubusercontent.com/94828335/171208319-8164978d-e99d-4949-a2e4-535886748342.jpg)
+
 
 
 </br>
@@ -219,8 +220,8 @@ ii) Using Weighted Averaging Filter
 
 iii) Using Gaussian Filter
 
-![5](https://user-images.githubusercontent.com/94828335/171204818-a2ee7626-2c7e-42cc-8bb8-cc6810ba2325.png)
-![6](https://user-images.githubusercontent.com/94828335/171204851-7bf8cbad-332e-4da9-a900-2ba54136159a.png)
+![3](https://user-images.githubusercontent.com/94828335/171208517-eb03868a-92f7-469f-b7b0-40e06344186d.jpg)
+
 
 </br>
 </br>
@@ -229,8 +230,9 @@ iii) Using Gaussian Filter
 </br>
 
 iv) Using Median Filter
-![7](https://user-images.githubusercontent.com/94828335/171204932-1373f5dc-bb16-4f80-9714-a01221d2351b.png)
-![8](https://user-images.githubusercontent.com/94828335/171205050-697ef9e0-3a8d-482d-a655-af16d2fadca8.png)
+
+![4](https://user-images.githubusercontent.com/94828335/171208643-aa0d0a55-0e7b-41f5-b2bf-f101ac7c937f.jpg)
+
 
 </br>
 </br>
@@ -243,8 +245,7 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
-![9](https://user-images.githubusercontent.com/94828335/171205287-f49feb25-90cf-4f5d-a82e-342bfce708da.png)
-![10](https://user-images.githubusercontent.com/94828335/171205360-5fbfab9a-a5c4-492b-996f-924c87d81312.png)
+"C:\Users\Magesh\OneDrive\Documents\mohan\5.jpg"
 
 
 </br>
@@ -254,8 +255,8 @@ i) Using Laplacian Kernal
 </br>
 
 ii) Using Laplacian Operator
-![11](https://user-images.githubusercontent.com/94828335/171205437-d12818a9-1bbb-4e89-af9b-b1b64e60616c.png)
-![12](https://user-images.githubusercontent.com/94828335/171205499-d5caf650-f5b4-43b9-85c9-cc0163370e0d.png)
+![6](https://user-images.githubusercontent.com/94828335/171209002-8979690c-ac8f-453e-99c6-087d0acb4056.jpg)
+
 
 </br>
 </br>
